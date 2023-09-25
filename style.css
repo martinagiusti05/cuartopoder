@@ -1,0 +1,50 @@
+.divider {
+    border-bottom: 1px solid #0001083f;
+    margin: auto;
+    width: 95%;
+  }
+
+.foto1 {
+    margin: 2.5rem;
+}
+.descripcion {
+    font-family: monospace;
+    font-size: larger;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: #210124;
+    color: white;
+    padding: 1rem;
+}
+
+a {
+    color: white;
+
+}
+
+.problematica {
+        background-color: #dbf9f0;
+        font-size: 16px;
+        width: 95%;
+        margin: auto;
+}
+
+.historia {
+ background-color: #B3DEC1;
+ width: 95%;
+ margin: auto;
+}
+
+.objetivo {
+    background-color: #750D37;
+    color: black;
+    width: 95%;
+    margin: auto;
+}
+
+body {
+    background-color: #F7F9F7;
+}
